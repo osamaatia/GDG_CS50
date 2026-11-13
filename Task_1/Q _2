@@ -1,0 +1,8 @@
+ start
+	read seated_num
+	read snums_list 
+	  if  seated num in snums_list
+	     print "Yout can Enter"
+	  else 
+	     print sorry, "You can not enter to the exam"
+  stop
